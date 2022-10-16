@@ -1,7 +1,0 @@
-Enriched pathways of schizophrenia datasets		Enriched pathways of bipolar disorder datasets		Enriched pathways of T2DM datasets	
-Pathway	Gene overlap with schizophrenia KG (%)	Pathway	Gene overlap with bipolar disorder KG (%)	Pathway	Gene overlap with T2DM KG (%)
-IL-17 signaling pathway	39.36	Phagosome	16.67	Transcriptional misregulation in cancer	6.52
-PI3K-Akt signaling pathway	31.73	Antigen processing and presentation	15.89	Rheumatoid arthritis	3.7
-NF-kappa B signaling pathway	25.24	Oxidative phosphorylation	8.27	Chemokine signaling pathway	3.19
-Cytokine-cytokine receptor interaction	22.45			Cytokine-cytokine receptor interaction	3.14
-				Staphylococcus aureus infection	3.06
