@@ -71,4 +71,4 @@ The GWAS analysis was carried out on the files present in the [GWAS analysis fol
 
 If you have found our study useful in your work, please consider citing:
 
-Vinay Srinivas Bharadhwaj, Sarah Mubeen, Astghik Sargsyan, Geena Mariya Jose, Stefan Geissler, Martin Hofmann-Apitius, Daniel Domingo-Fernández, Alpha Tom Kodamullil (2022). [Integrative analysis to identify shared mechanisms between schizophrenia and bipolar disorder and their comorbidities](https://doi.org/10.1101/2022.03.07.483233), bioRxiv 2022.03.07.483233
+Bharadhwaj, V. S., Mubeen, S., Sargsyan, A., Jose, G. M., Geissler, S., Hofmann-Apitius, M., Domingo-Fern ́andez, D., & Kodamullil, A. T. (2023). [Integrative analysis to identify shared mechanisms between schizophrenia and bipolar disorder and their comorbidities.](https://doi.org/10.1016/j.pnpbp.2022.110688) Progress in Neuro-Psychopharmacology and Biological Psychiatry, 122, 110688.
